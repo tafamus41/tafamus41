@@ -1,14 +1,9 @@
 
 
 
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=170656926" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=170656926&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=170656926&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-
 
 
 
