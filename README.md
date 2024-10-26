@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/musa-seyran/">
 </a>
 <a href="mailto:seyranmustafa4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:seyranmustafa4@gmail.com">
+<!--     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:seyranmustafa4@gmail.com"> -->
+    [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyranmustafa4@gmail.com)
 </a>
 <a>
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
