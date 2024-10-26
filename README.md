@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafamus41" alt="tafamus41" /> </p>
 📩 Connect with me:
 <br>
-<!-- <a href="https://www.linkedin.com/in/musa-seyran/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/musa-seyran/">
-</a> -->
+
 <div >
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-seyran/)
