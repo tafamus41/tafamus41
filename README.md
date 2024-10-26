@@ -8,9 +8,7 @@
 <!-- <a href="https://www.linkedin.com/in/musa-seyran/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https:https://www.linkedin.com/in/musa-seyran/">
 </a> -->
-<div 
-<!--     align="center" -->
-    >
+<div >
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-seyran/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyranmustafa4@gmail.com)
