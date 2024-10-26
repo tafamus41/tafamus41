@@ -22,7 +22,7 @@
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Develop application projects useful to humanity and to participate in these projects in the world.
-- ⚡ Fun fact: i like to play amateur football, running and drive a car .
+- ⚡ Fun fact: i like swimming, running and driving .
 - 💬 You can ask me anything you want to know
 
 
