@@ -19,7 +19,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
+### 📑 I'm currently doing front and backend development (Java Script | React | Node.js )
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
 - 🥅 Goals: Develop application projects useful to humanity and to participate in these projects in the world.
 - ⚡ Fun fact: i like swimming, running and driving .
